@@ -1,7 +1,6 @@
 image: wcaent/my-bundle:0.0.1-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
-ingressPath: "/myBundle"
 roles:
   - "myBundle-admin"
   - "conference-admin"
