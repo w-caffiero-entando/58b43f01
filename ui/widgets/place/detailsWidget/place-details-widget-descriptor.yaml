@@ -1,0 +1,6 @@
+code: place-details-widget
+titles:
+  en: Place Details Widget
+  it: Place Details Widget
+group: free
+customUiPath: place-details-widget.ftl

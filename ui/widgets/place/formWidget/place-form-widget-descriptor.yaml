@@ -1,0 +1,6 @@
+code: place-form-widget
+titles:
+  en: Place Form Widget
+  it: Place Form Widget
+group: free
+customUiPath: place-form-widget.ftl

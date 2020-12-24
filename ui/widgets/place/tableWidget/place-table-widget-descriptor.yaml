@@ -1,0 +1,6 @@
+code: place-table-widget
+titles:
+  en: Place Table Widget
+  it: Place Table Widget
+group: free
+customUiPath: place-table-widget.ftl
